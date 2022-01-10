@@ -1,5 +1,5 @@
 # NLP & Unsupervised Learning project
-## who support twitter banning accounts and who do not? 
+## who support twitter banning accounts and who do not?
 
 ### Question/Need:
 
@@ -38,7 +38,7 @@ Data pulled by tweepy API will be transformed to DataFrame. Each row of the data
 - If modeling, what will you predict as your target?
 
 <span style="color:lightseagreen">
-In the modeling, the target will be "is_canceled", 1 represents "canceled", while "0" represents not.
+
 </span>
 
 
