@@ -48,17 +48,21 @@ Data pulled by tweepy API will be transformed to DataFrame. Each row of the data
 <span style="color:lightseagreen">
 
   - libraries like RE, NLTK will be used to vectorize context data.
-  - sklearn,gensim will be used for dimention reduction, topic modeling
+  - sklearn to convert text document to Matrix
+  - VADER for sentiment analysis
+  - Gensim for top modeling
   - sklearn for clustering
   - matplotlib, seaborn for data visualization  
 </span>
+
 
 - Are you planning in advance to need or use additional tools beyond those required?    
 
 <span style="color:lightseagreen">
 
- - Tableau might be used for EDA visualization.
- - Tweepy API will be used for data scraping.
+- Tableau might be used for EDA visualization.
+
+- Tweepy API will be used for data scraping.
 
 </span>
 
